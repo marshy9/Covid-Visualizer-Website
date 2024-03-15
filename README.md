@@ -8,23 +8,11 @@ Tools Used:
 
 ●
 
-This product is a COVID-19 data visualizer that allows the
+This product is a COVID-19 data visualizer that allows the user to view COVID-19 data in a meaningful way; this application allows the user to view COVID-19 cases, as well as COVID-19 deaths, on a map of the United States.
 
-user to view COVID-19 data in a meaningful way; this
+The map is divided into cells that correspond to each of the counties that exist in a particular state.
 
-application allows the user to view COVID-19 cases, as well as
-
-COVID-19 deaths, on a map of the United States.
-
-The map is divided into cells that correspond to each of the
-
-counties that exist in a particular state.
-
-The user can zoom in and out on the map, as well as hover
-
-over a particular county in order to view the corresponding
-
-information (deaths, cases).
+The user can zoom in and out on the map, as well as hover over a particular county in order to view the corresponding information (deaths, cases).
 
 ![image](https://github.com/marshy9/Covid-Visualizer-Website/assets/55929958/7d4eea04-5049-44f2-a35b-0842fa1576a7)
 
