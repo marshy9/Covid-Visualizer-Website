@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>statesearch</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="display_prisons.js"></script>
+    <script src="jquery-3.5.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.js"></script>
+
+    
+    <link rel="stylesheet" href="covid.css">
+  </head>
+  <body>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Covid Deaths</a></li>
+            <li><a href="covcases.html">Covid Cases</a></li>
+            <li>
+
+                    Enter State: <input id = search type="text">
+                    <button onclick="display()"> Submit</button>
+
+            </li>
+        </ul>
+    </nav>
+    
+    <table id="display-resources">
+    </table>
+
+
+</body>
+</html>
