@@ -2,10 +2,6 @@
 Covid Visualizer Website
 
 
-<a name="br2"></a> 
-
-Tools Used:
-
 ●
 
 This product is a COVID-19 data visualizer that allows the user to view COVID-19 data in a meaningful way; this application allows the user to view COVID-19 cases, as well as COVID-19 deaths, on a map of the United States.
